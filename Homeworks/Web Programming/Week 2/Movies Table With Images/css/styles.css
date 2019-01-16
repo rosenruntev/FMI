@@ -1,0 +1,14 @@
+table {
+	border: 1px solid gray;
+}
+
+td, th {
+	border: 1px solid gray;
+	background: #9154ce;
+}
+
+img {
+	padding: 2px 2px 2px 2px;
+	width: 50px;
+	height: 100px;
+}
