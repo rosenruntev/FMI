@@ -1,0 +1,11 @@
+.upper-roman {
+	list-style-type: upper-roman;
+}
+
+.latin-letter {
+	list-style-type: lower-latin;
+}
+
+.disc {
+	list-style-type: disc;
+}
