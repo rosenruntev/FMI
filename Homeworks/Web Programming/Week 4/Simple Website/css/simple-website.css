@@ -1,0 +1,47 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+header, footer {
+	background-color: #001433;
+}
+
+footer p {
+	text-align: center;
+	color: white;
+}
+
+ol {
+	list-style-type: none;
+	margin-left: 30%;
+	height: 50px;
+	padding-top: 10px;
+}
+
+li {
+	display: inline;
+	padding-right: 10px;
+	font-size: 30px;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+}
+
+.italic-font {
+	font-style: italic;
+}
+
+main {
+	background-color: #66a3ff;
+}
+
+#second-post {
+	margin-top: 40px;
+}
+
+.post-content {
+	margin-top: 20px;
+}
