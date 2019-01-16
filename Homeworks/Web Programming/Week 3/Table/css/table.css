@@ -1,0 +1,29 @@
+body {
+	color: white;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table, th, td{
+	background-color: rgb(113, 166, 252);
+	text-align: center;
+}
+
+td {
+	width: 135px;
+	height: 60px;
+}
+
+tr:nth-child(odd) td {
+	background-color: rgb(98, 186, 91);
+}
+
+td:first-child {
+	padding-left: 10px;
+}
+
+td:last-child {
+	padding-right: 10px;
+}

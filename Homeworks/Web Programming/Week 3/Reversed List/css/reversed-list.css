@@ -1,0 +1,28 @@
+#wrapper {
+	background-color: #c5e8ec;
+	color: #b30000;
+	width: 300px;
+	border: 1px solid #260d0d;
+}
+
+ul {
+	list-style-type: none;
+}
+
+li {
+	font-size: 25px;
+}
+
+hr {
+	width: 80%;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+#first {
+	margin-bottom: 2px;
+}
+
+#second {
+	margin-top: 2px;
+}
