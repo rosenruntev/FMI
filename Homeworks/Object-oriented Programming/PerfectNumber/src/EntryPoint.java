@@ -4,7 +4,8 @@ import java.util.Scanner;
 public class EntryPoint {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        System.out.println("Please enter number:");
+		
+        System.out.println("Please enter number to check if it is perfect:");
         int number = input.nextInt();
 
         int sumOfDividers = 0;
