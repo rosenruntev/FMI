@@ -1,0 +1,26 @@
+.articleNavigation {
+	margin-bottom: 1em;
+}
+
+.articleNavigation nav h3 {
+	color: #404040;
+	border-bottom: 1px solid #e74c3c;
+	font-weight: bold;
+	padding-bottom: 0.2em;
+	margin-bottom: 0.5em;
+	display: inline-block;
+	font-size: 1.5em;
+}
+.articleNavigation nav li {
+	list-style-type: none;
+	margin-bottom: 0.2em;
+}
+
+.articleNavigation nav li a {
+	text-decoration: none;
+	color: #787878;
+}
+
+.articleNavigation nav li a:hover {
+	border-bottom: 1px solid #e74c3c;
+}

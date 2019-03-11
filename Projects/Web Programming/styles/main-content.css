@@ -1,0 +1,46 @@
+.content-container article h1 {
+	font-weight: bold;
+	color: #404040;
+	padding-bottom: 0.2em;
+	margin-bottom: 0.5em;
+	font-size: 1.8em;
+}
+
+.content-container article p {
+	color: #787878;
+	font-size: 1.1em;
+}
+
+.content-container article section h2 {
+	font-weight: bold;
+	color: #404040;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+	font-size: 1.5em;
+}
+
+.content-container section ul {
+	margin-left: 2em;
+}
+
+.content-container article li {
+	list-style-type: none;
+	color: #787878;
+	font-size: 1.1em;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.col-md-8 {
+	margin-bottom: 1em;
+}
+
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
+}
