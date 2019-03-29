@@ -1,18 +1,20 @@
 /* Write a java program that find factorial of number */
+package uni.fmi.factorial;
+
 import java.util.Scanner;
 
-public class EntryPoint {
+public class MainClass {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 		
         System.out.println("Please enter number to find factorial:");
-        int number = input.nextInt();
+        long number = input.nextLong();
 
-        int factorial = factorial(number);
+        long factorial = factorial(number);
         System.out.println(factorial);
     }
 
-    public static int factorial(int number) {
+    public static long factorial(long number) {
         if(number == 1) {
             return 1;
         }

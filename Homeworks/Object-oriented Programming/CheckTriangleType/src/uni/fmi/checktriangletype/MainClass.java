@@ -1,7 +1,9 @@
 /* Write java program that checks triangle type by given three sides */
+package uni.fmi.checktriangletype;
+
 import java.util.Scanner;
 
-public class EntryPoint {
+public class MainClass {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

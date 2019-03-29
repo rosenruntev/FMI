@@ -1,7 +1,9 @@
 /* Write a java program that checks if number is perfect */
+package uni.fmi.perfectnumber;
+
 import java.util.Scanner;
 
-public class EntryPoint {
+public class MainClass {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 		
